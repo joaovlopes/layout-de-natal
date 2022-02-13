@@ -1,0 +1,208 @@
+body {
+    margin: 0;
+}
+
+.div1, .div2, .div3 {
+    width: 100%;
+    height: 30rem;
+}
+
+.div1, .div3 {
+    background-color: #f7c7b9;
+}
+
+.div2 {
+    background-color: white;
+}
+
+.div1 h1,.div1 p {
+    font-family: system-ui;
+}
+
+.button-div1 {
+    background-color: #da2535 !important;
+    color: white !important;
+    display: flex !important;
+    border: solid 1px #da2535 !important;
+    border-radius: 9px !important;
+    width: 12rem !important;
+    margin-top: 2rem !important;
+    cursor: pointer !important;
+    height: 50px;
+}
+
+.presente {
+    margin-top: 6%;
+    margin-left: 9%;
+}
+
+.espaco-span {
+    margin-left: 8px !important; 
+    margin-top: 15px;
+}
+
+.espaco {
+    margin-left: 8px;
+}
+
+.divE, .divD {
+    width: 50%;
+}
+
+.div1{
+    display:flex;
+}
+
+.marginleft{
+    margin: 12%;
+    margin-left: 17%;
+}
+
+.maozinha{
+    margin: 6%;
+    margin-left: 4%;
+}
+
+.div1 h1{
+    font-size: 40px;
+}
+
+.fonte{
+    font-size: 18px;
+}
+
+.acessorios{
+    text-align: center;
+    font-family: system-ui;
+    font-size: 40px;
+}
+
+.texto{
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.grupo1, .grupo2, .grupo3, .grupo4{
+    width: 25%;
+    text-align: center;
+}
+
+.grupos{
+    display: flex;
+    width: 100%;
+    font-family: system-ui;
+}
+
+.grupos img{
+    width: 160px;
+}
+
+.grupos h1{
+    font-size: 20px;
+}
+
+.grupos p{
+    font-size: 14px;
+    color: rgb(148, 148, 148);
+    font-weight: 500;
+}
+
+.direita, .esquerda{
+    width: 50%;
+}
+
+.presentinho{
+    margin-left: 15%;
+    margin-top: 8%;
+}
+
+.direita h1, .direita p{
+    font-family: system-ui;
+    font-size: 40px;
+    color: black;
+}
+
+.direita p{
+    font-size: 20px;
+    font-weight: 500;
+    color: gray;
+}
+.div3{
+    display: flex;
+}
+
+.menu {
+    display: flex;
+    position: fixed;
+    right: 0%;
+    top: 0%;
+    width: 100%;
+    height: 3rem;
+    background-color: #f7c7b9;
+    font-family: system-ui;
+    font-weight: 300;
+    font-size: 11px;
+}
+
+.menuD{
+  margin-top: 0,5%;
+  word-spacing: 40px;
+  width:50%;
+  padding-left: 26rem;
+}
+
+.menuE{
+  display: flex;
+  width: 50%;
+  padding-left: 8rem;
+}
+
+.noel{
+    width: 25px;
+    height: 25px;
+    margin-top: 2%;
+}
+
+.rodape{
+    width: 100%;
+    height: 5rem;
+    background-color: white;
+    font-family: system-ui;
+    color: black;
+    margin-top: 25px;   
+    display: flex; 
+}
+
+.rodapeE{
+    margin-left: 8rem;
+    font-size: 12.5px;
+    display: flex;
+    width: 70%;
+}
+
+.rodapeD{
+    width: 30%;;
+    display: flex;
+    text-align: right;
+}
+
+.noel2{
+    width: 25px;
+    height: 25px;
+    margin-top: 1.5%;
+}
+
+.medias{
+    height: 30px;
+    width: 30px;
+    background-color: #f7c7b9;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 4%;
+}
+
+.social{
+    height: 16.5px;
+    width: 16.5px;
+    margin: 6px;
+}
